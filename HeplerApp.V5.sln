@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32714.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeplerApp.V5", "HeplerApp.V5\HeplerApp.V5.csproj", "{77565840-2D81-4EE0-AA5C-8C53AB242374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77565840-2D81-4EE0-AA5C-8C53AB242374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77565840-2D81-4EE0-AA5C-8C53AB242374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77565840-2D81-4EE0-AA5C-8C53AB242374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77565840-2D81-4EE0-AA5C-8C53AB242374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68A6ECEB-C8F5-40E2-B2E8-4FE0E77ED41E}
+	EndGlobalSection
+EndGlobal
